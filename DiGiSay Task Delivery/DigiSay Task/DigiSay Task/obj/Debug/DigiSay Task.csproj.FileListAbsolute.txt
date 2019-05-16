@@ -1,0 +1,47 @@
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\obj\Debug\DigiSay Task.csprojResolveAssemblyReference.cache
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\obj\Debug\DigiSay_Task.Form1.resources
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\obj\Debug\DigiSay_Task.Properties.Resources.resources
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\obj\Debug\DigiSay Task.csproj.GenerateResource.Cache
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\DigiSay Task.exe.config
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\DigiSay Task.exe
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\DigiSay Task.pdb
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\HtmlAgilityPack.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\obj\Debug\DigiSay Task.exe
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\obj\Debug\DigiSay Task.pdb
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\ejml-0.23.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.AWT.WinForms.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.Beans.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.Charsets.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.Corba.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.Localedata.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.Management.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.Media.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.Misc.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.Naming.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.Remoting.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.Security.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.Tools.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.XML.API.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.Runtime.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\IKVM.Runtime.JNI.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\javax.json.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\joda-time.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\jollyday.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\protobuf.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\slf4j-api.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\slf4j-simple.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\stanford-corenlp-3.9.1.dll
+E:\Computer Science\Projects\DigiSay Task\DigiSay Task\bin\Debug\xom.dll
